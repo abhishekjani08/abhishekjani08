@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I am Abhishek Jani:
 🔭 I am pursuing Bachelor's of Engineering in Information Technology.<br>🤝 Currently, i am in my Third year of Engineering.<br>🌱 I am learning more about MERN Stack.<br><br><br>
 
 
