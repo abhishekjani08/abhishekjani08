@@ -106,7 +106,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-stats-alpha.vercel.app/api?username={abhishekjani08}&cc=000&tc=fff&ic=fff&bc=000)
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=abhishekjani08&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/abhishekjani08 "Stats")<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjani08&theme=dark&hide_border=false)<br/>
 ![](https://stats.justsong.cn/api/github?username=abhishekjani08)
 
