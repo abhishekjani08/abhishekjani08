@@ -59,6 +59,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### Design
 
@@ -109,7 +110,7 @@
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=abhishekjani08&cc=000&tc=fff&ic=fff "Stats")](https://github.com/abhishekjani08 "Stats")<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjani08&theme=dark&hide_border=false)<br/>
 ![](https://stats.justsong.cn/api/github?username=abhishekjani08&theme=dark&hide_border=false)
-![](https://github-profile-trophy.vercel.app/?username=abhishekjani08&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=abhishekjani08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=abhishekjani08&icon=1&color=1)](https://visitcount.itsvg.in)
 
