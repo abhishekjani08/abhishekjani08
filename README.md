@@ -1,5 +1,5 @@
 # 💫 Hey, I am Abhishek Jani
-😛 I am pursuing Bachelor's of Engineering in Information Technology.<br>🚀 Currently, i am in my Final year of Engineering.<br>🪴 I am learning more about MERN Stack.<br>📝 Checkout my [Resume](https://drive.google.com/file/d/1PYDiHS5NnbHEVbjiLmzaHIAq75HLNTMa/view?usp=sharing).<br><br><br>
+😛 I am pursuing Bachelor's of Engineering in Information Technology.<br>🚀 Currently, i am in my Final year of Engineering.<br>🪴 I am learning more about MERN Stack.<br>📝 Checkout my [Resume](https://flowcv.com/resume/esi8rcl417).<br><br><br>
 
 
 ## 🌐 Socials:
