@@ -1,5 +1,13 @@
 # 💫 Hey, I am Abhishek Jani
-😛 I am pursuing Bachelor's of Engineering in Information Technology.<br>🚀 Currently, i am in my Final year of Engineering.<br>🪴 I am learning more about MERN Stack.<br>📝 Checkout my [Resume](https://flowcv.com/resume/esi8rcl417).<br><br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Full-Stack+Web+Developer;✨Open-Source+Enthusiast;👋Nice+to+meet+you...)
+- 😄 I'm currently pursuing a Bachelor's of Engineering in Information Technology and am in my final year.
+- 🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.
+- 🧠 Diving deeper into Machine Learning, exploring how AI can revolutionize the tech industry.
+- 🎨 Besides coding, I have a flair for Graphic Designing, bringing creativity to my technical projects.
+- 🕵️‍♂️ Skilled in Web Testing, ensuring that websites are not only functional but also user-friendly.
+- 🛒 Experienced in setting up and managing Shopify stores, understanding the e-commerce ecosystem.
+- ✨ I believe in the power of Open Source and actively contribute to various projects.
+- 📝 Checkout my [Resume](https://flowcv.com/resume/esi8rcl417)
 
 
 ## 🌐 Socials:
@@ -104,15 +112,36 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+# 📊 GitHub Stats
+
+<p align="center">
+    <!-- Stats Card -->
+    <a href="https://github.com/abhishekjani08">
+        <img src="https://github-stats-alpha.vercel.app/api/?username=abhishekjani08&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
+    </a>
+</p>
 
 
-# 📊 GitHub Stats:
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=abhishekjani08&cc=000&tc=fff&ic=fff "Stats")](https://github.com/abhishekjani08 "Stats")<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjani08&theme=dark&hide_border=false)<br/>
-![](https://stats.justsong.cn/api/github?username=abhishekjani08&theme=dark&hide_border=false)
-![](https://github-profile-trophy.vercel.app/?username=abhishekjani08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  
----
+<p align="center">
+    <!-- Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjani08&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <!-- Justsong Stats -->
+    <img src="https://stats.justsong.cn/api/github?username=abhishekjani08&theme=tokyonight" alt="JustSong Stats" />
+</p>
+
+<p align="center">
+    <!-- Profile Summary Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekjani08&theme=tokyonight" alt="Profile Summary Card" />
+</p>
+
+<p align="center">
+    <!-- Trophy Stats -->
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekjani08&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=abhishekjani08&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
