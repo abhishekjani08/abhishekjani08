@@ -142,4 +142,4 @@
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=abhishekjani08&color=4B8BDA)
+![](https://komarev.com/ghpvc/?username=abhishekjani08&color=blue&style=flat&label=Profile+Views&base=1000)
