@@ -9,7 +9,6 @@
 - ✨ I believe in the power of Open Source and actively contribute to various projects.
 - 📝 Checkout my [Resume](https://flowcv.com/resume/esi8rcl417)
 
-
 ## 🌐 Socials:
 
 <a href="mailto:abhishekdarshanjani@gmail.com" target="_blank"
@@ -142,6 +141,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=abhishekjani08&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
+---
 [![](https://visitcount.itsvg.in/api?id=abhishekjani08&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
