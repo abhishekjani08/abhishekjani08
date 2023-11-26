@@ -142,5 +142,4 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishekjani08&icon=1&color=1)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=abhishekjani08&color=4B8BDA)
