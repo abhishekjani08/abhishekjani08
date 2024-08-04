@@ -1,10 +1,9 @@
 # 💫 Hey, I am Abhishek Jani
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Full-Stack+Web+Developer;✨Open-Source+Enthusiast;👋Nice+to+meet+you...)
-- 😄 I'm currently pursuing a Bachelor's of Engineering in Information Technology and am in my final year.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Software+Developer;✨Open-Source+Enthusiast;👋Nice+to+meet+you...)
+- 😄 I have recently completed my Bachelor's of Engineering in Information Technology.
 - 🚀 Passionate about Full-Stack Web Development, with a keen interest in the MERN Stack.
 - 🧠 Diving deeper into Machine Learning, exploring how AI can revolutionize the tech based industry.
 - 🎨 Besides coding, I have a flair for Graphic Designing, bringing creativity to my technical projects.
-- 🕵️‍♂️ Skilled in Web Testing, ensuring that websites are not only functional but also user-friendly.
 - 🛒 Experienced in setting up and managing Shopify stores, understanding the e-commerce ecosystem.
 - ✨ I believe in the power of Open Source and actively contribute to various projects.
 - 📝 Checkout my [Resume](https://flowcv.com/resume/esi8rcl417)
